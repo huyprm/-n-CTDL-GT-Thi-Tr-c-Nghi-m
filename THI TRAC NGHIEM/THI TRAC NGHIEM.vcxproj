@@ -130,10 +130,12 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DS Lop.h" />
-    <ClInclude Include="DS Sinh Vien.h" />
+    <ClInclude Include="..\..\..\Graphics.h-main\Graphics.h-main\graphics.h" />
+    <ClInclude Include="SinhVien.h" />
+    <ClInclude Include="Lop.h" />
     <ClInclude Include="Mon Hoc.h" />
     <ClInclude Include="Struct.h" />
+    <ClInclude Include="ThuVien.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

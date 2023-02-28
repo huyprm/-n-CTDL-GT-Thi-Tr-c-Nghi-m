@@ -42,7 +42,7 @@ struct List_MONHOC {
 	int n;
 	MONHOC* nodeMONHOC[MAX_MONHOC];
 };
-
+typedef 
 //========== danh sach diem thi ==========
 
 struct DIEMMH {

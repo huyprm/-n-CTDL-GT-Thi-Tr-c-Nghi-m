@@ -20,16 +20,22 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DS Sinh Vien.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Struct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DS Lop.h">
+    <ClInclude Include="Mon Hoc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Mon Hoc.h">
+    <ClInclude Include="..\..\..\Graphics.h-main\Graphics.h-main\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SinhVien.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThuVien.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
